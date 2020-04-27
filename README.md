@@ -1,7 +1,7 @@
 # OPENTRACE
 Contact Tracing - Opentrace
 
-Open-source code of the centralized solution, that has been used to develop the **TraceTogether** app for Singapore.
+Open-source code of the centralized solution, that has been used to develop the **TraceTogether** app in Singapore.
 
 Sources | https://github.com/OpenTrace-community
 --------|---------------------------------------

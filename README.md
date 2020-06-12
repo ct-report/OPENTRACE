@@ -3,7 +3,7 @@ Contact Tracing - Opentrace
 
 Open-source code of the solution, that has been used to develop the **TraceTogether** app in Singapore.
 
-It relies on decentralised proximity data collection and logging (local on device) together with a centralised contact tracing (backend/server).
+It relies on decentralised proximity data collection and logging (local on device) together with centralised user-ID & contact tracing management (backend/server).
 
 Sources | https://github.com/OpenTrace-community
 --------|---------------------------------------
